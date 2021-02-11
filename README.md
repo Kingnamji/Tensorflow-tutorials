@@ -1,6 +1,6 @@
 # Tensorflow-tutorials
 
-텐서플로우 예제 풀이입니다.
+텐서플로우를 사용해본 아주 간단한 예제 풀이입니다 🐥
 
 Google Colaboratory를 이용했습니다.
 
